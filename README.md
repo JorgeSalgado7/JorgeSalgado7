@@ -6,11 +6,11 @@
 ## I love to create, design and implement technological solutions for all users.
 
 ## Technologies i love working with:
-### Python & Django
-### HTML, CSS & JavaScript
-### NodeJS 
-### Cordova, Java & Android / IOS
-### SQL Server, Oracle SQL & Mysql
+#### Python & Django
+#### HTML, CSS & JavaScript
+#### NodeJS 
+#### Cordova, Java & Android / IOS
+#### SQL Server, Oracle SQL & Mysql
 
 ## Connect with me:
 
