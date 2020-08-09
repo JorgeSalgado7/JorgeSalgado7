@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I´m Jorge Salgado
+### Systems engineer and web developer. 
 
-<!--
-**JorgeSalgado7/JorgeSalgado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I love to create, design and improve various technological solutions to make life easier for users.
+## Some technologies i love working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Python & Django
+##  HTML, CSS & JavaScript
+##  NodeJS
+##  Cordova, Java & Android / IOS
+##  SQL Server, Oracle SQL & MySQL
+##  C# & C++ / .NET
