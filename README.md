@@ -1,21 +1,13 @@
-## Hi there, I'm Jorge Salgado 👋
+## Hi there!! 👋 
 
-# I'm a System Engineer and Web Developer. 
-- ⚡ Fun fact: I´m in love with Python & Django
+# I'm a Full Stack Web Developer⚡ 
 
-## I love to create, design and implement technological solutions for all users.
+Front & Back End Developer.
 
-## Technologies i love working with:
-#### Python & Django
-#### HTML, CSS & JavaScript
-#### NodeJS 
-#### Cordova, Java & Android / IOS
-#### SQL Server, Oracle SQL & Mysql
+I love analyzing, designing and implementing solutions to problems that require technology.
 
-## Connect with me:
+Web Development - eCommerce - Apps - DB´s - Web Security
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
+***
 
-
-[website]: https://jorgesalgado.com.mx/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSalgado7)](https://github.com/JorgeSalgado7/github-readme-stats)
