@@ -15,6 +15,7 @@ Web Development - eCommerce - Apps - DB´s - Web Security
 ### Contact me:
 <!-- Actual text --> 
 [![LinkedIn][1.1]][1] Jorge Salgado
+
 https://www.jorgesalgado.com.mx/
 
 
