@@ -4,13 +4,13 @@
 
 Front & Back End Developer.
 
+Web Security.
+
 I love analyzing, designing and implementing solutions to problems that require technology.
 
 Web Development - eCommerce - Apps - DB´s - Web Security
 
 ***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSalgado7)](https://github.com/JorgeSalgado7/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeSalgado7)](https://github.com/JorgeSalgado7/github-readme-stats)
 
 ### Contact me:
 <!-- Actual text --> 
