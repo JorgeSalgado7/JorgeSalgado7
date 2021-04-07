@@ -1,17 +1,8 @@
-## Hi there!! 👋 
+# Systems Engineer | Full Stack Web Developer | Cyber Security
 
-# I'm a Full Stack Web Developer⚡ 
+### Cyber Security G.H.O.S.T. Certification
 
-Front & Back End Developer.
-
-Web Security.
-
-I love analyzing, designing and implementing solutions to problems that require technology.
-
-Web Development - eCommerce - Apps - DB´s - Web Security
-
-Cyber Security G.H.O.S.T. Certification
-CyberArk Trustee Certification
+### CyberArk Trustee Certification
 
 ***
 
