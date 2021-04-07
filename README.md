@@ -10,6 +10,9 @@ I love analyzing, designing and implementing solutions to problems that require 
 
 Web Development - eCommerce - Apps - DB´s - Web Security
 
+Cyber Security G.H.O.S.T. Certification
+CyberArk Trustee Certification
+
 ***
 
 ### Contact me:
