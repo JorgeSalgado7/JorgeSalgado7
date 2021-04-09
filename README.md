@@ -1,4 +1,4 @@
-# Systems Engineer | Full Stack Web Developer | Cyber Security
+# Systems Engineer | Full Stack Web Developer | Ethical Hacker
 
 ### Cyber Security G.H.O.S.T. Certification
 
