@@ -6,14 +6,4 @@
 
 ***
 
-### Contact me:
-<!-- Actual text --> 
-[![LinkedIn][1.1]][1] Jorge Salgado
-
-https://www.jorgesalgado.com.mx/
-
-
-[1]: https://www.linkedin.com/in/jorge-salgado7/
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://www.jorgesalgado.com.mx/
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeSalgado7)](https://github.com/anuraghazra/github-readme-stats)
