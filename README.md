@@ -1,9 +1,9 @@
-# Systems Engineer | Full Stack Web Developer | Ethical Hacker
+# :mortar_board: Systems Engineer | :mortar_board: Full Stack Web Developer | :white_circle: Ethical Hacker
 
-### Cyber Security G.H.O.S.T. Certification
+I love design and deploy technological solutions to improve  business
 
-### CyberArk Trustee Certification
+## Certifications
 
-***
+:ghost: G.H.O.S.T. Certification | Cyber Security 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeSalgado7)](https://github.com/anuraghazra/github-readme-stats)
+:computer: CyberArk Trustee Certification | Cyber Security
