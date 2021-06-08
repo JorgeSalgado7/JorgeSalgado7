@@ -9,7 +9,3 @@ I love design and deploy technological solutions to improve  business
 ### :computer: CyberArk Trustee Certification | Cyber Security
 
 ### :mortar_board: Scrum Foundation Professional Certificate | Project Management
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeSalgado7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
