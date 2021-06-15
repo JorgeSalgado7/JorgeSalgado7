@@ -2,6 +2,8 @@
 
 I love design and deploy technological solutions to improve  business
 
+
+
 ## Certifications
 
 ### :ghost: G.H.O.S.T. Certification | Cyber Security 
@@ -9,3 +11,9 @@ I love design and deploy technological solutions to improve  business
 ### :computer: CyberArk Trustee Certification | Cyber Security
 
 ### :mortar_board: Scrum Foundation Professional Certificate | Project Management
+
+
+
+## Visit my portfolio
+
+https://jorgesalgado.com.mx
