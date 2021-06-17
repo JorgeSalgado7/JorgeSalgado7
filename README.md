@@ -14,6 +14,4 @@ I love design and deploy technological solutions to improve  business
 
 
 
-## Visit my portfolio
-
-https://jorgesalgado.com.mx
+### https://jorgesalgado.com.mx
