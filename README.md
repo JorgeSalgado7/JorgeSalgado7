@@ -12,6 +12,8 @@ I love design and deploy technological solutions to improve  business
 
 ### :mortar_board: Scrum Foundation Professional Certificate | Project Management
 
+### :computer: Cyber Security Foundation Professional Certificate | Cyber Security
+
 
 
 ### https://jorgesalgado.com.mx
