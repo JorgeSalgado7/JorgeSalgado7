@@ -14,6 +14,8 @@ I love design and deploy technological solutions to improve  business
 
 ### :computer: Cyber Security Foundation Professional Certificate | Cyber Security
 
+### :computer: Cisco CNNA Routing and Switching  | Networks
+
 <br>
 <br>
 
