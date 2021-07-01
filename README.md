@@ -1,4 +1,4 @@
-# :mortar_board: Systems Engineer | :computer: Full Stack Developer | :white_circle: Ethical Hacker
+# 🎓 Systems Engineer | 🖥️ Full Stack Developer | 🎓 Project Manager | 🛡️ Ethical Hacker
 
 I love design and deploy technological solutions to improve  business
 
