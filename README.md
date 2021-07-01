@@ -6,15 +6,21 @@ I love design and deploy technological solutions to improve  business
 
 ## Certifications
 
-### :ghost: G.H.O.S.T. Certification | Cyber Security 
+🛡️ Cybersecurity Essentials | Cisco 2021
 
-### :computer: CyberArk Trustee Certification | Cyber Security
+🛡️ Cyber Security Foundation Professional Certificate - CSFPC | CertiProf 2021
 
-### :mortar_board: Scrum Foundation Professional Certificate | Project Management
+🎓 Scrum Foundations Professional Certificate - SFPC | CertiProf 2021
 
-### :computer: Cyber Security Foundation Professional Certificate | Cyber Security
+🛡️ CyberArk Trustee Certification | CyberArk 2021
 
-### :computer: Cisco CNNA Routing and Switching  | Networks
+👻 G.H.O.S.T. Certification | White Suit Hacking 2021
+
+🖥️ CCNA R&S: Connecting Networks  | Cisco 2020
+
+🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
+
+🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
 
 <br>
 <br>
