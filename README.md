@@ -20,7 +20,7 @@ I love design and deploy technological solutions to improve  business
 
 🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
 
-🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
+🖥️ CCNA R&S: Introduction to Networks | Cisco 2019
 
 <br>
 <br>
