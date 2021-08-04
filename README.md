@@ -26,5 +26,5 @@ I love design and deploy technological solutions to improve  business
 <br>
 
 ## Contact Me
-<a href="https://jorgesalgado.com.mx" style="display: flex; align-itens: center;"><img src="https://jorgesalgado.com.mx/favicon.jpg" height="30"></a>
+<a href="https://jorgesalgado.com.mx" style="display: flex; align-itens: center;"><img src="https://jorgesalgado.com.mx/favicon.ico" height="30"></a>
 <a href="https://www.linkedin.com/in/jorge-salgado7" style="display: flex; align-itens: center;"><img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" height="30"></a>
