@@ -1,13 +1,12 @@
 # 🎓 Systems Engineer, 🖥️ Full Stack Developer, 🛡️ Ethical Hacker & 🎓 Project Manager 
 
-
 I develop technological solutions that create new experiences.
 
 I have a lot of experience in Web Development and Cybersecurity, wich allows me to create Web Applications, E - Commerce, Marketplace, Cybersecurity Tools and everything you can imagine.
 
 With my experience in Cibersecurity i´m able to analyze, plan and manage differents IT infrastructures protecting them at diferent Cibersecurity Threats ans criminal through Ethical Hacks, Hardering and more.
 
-### Certifications
+## Certifications
 
 🛡️ Cybersecurity Essentials | Cisco 2021
 
@@ -24,3 +23,7 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
 
 🖥️ CCNA R&S: Introduction to Networks | Cisco 2019
+
+## Get in touch
+- Website: https://jorgesalgado.com.mx/
+- LinkedIn: www.linkedin.com/in/jorge-salgado7
