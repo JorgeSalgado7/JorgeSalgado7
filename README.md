@@ -23,7 +23,3 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
 
 🖥️ CCNA R&S: Introduction to Networks | Cisco 2019
-
-## Get in touch
-- Website: https://jorgesalgado.com.mx/
-- LinkedIn: www.linkedin.com/in/jorge-salgado7
