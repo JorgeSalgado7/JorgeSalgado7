@@ -23,3 +23,6 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
 
 🖥️ CCNA R&S: Introduction to Networks | Cisco 2019
+
+
+[![Estadísticas de este semana](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeSalgado7)](https://github.com/anuraghazra/github-readme-stats)
