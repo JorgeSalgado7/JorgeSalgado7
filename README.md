@@ -27,7 +27,7 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 ## Stats
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeSalgado7&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSalgado7&layout=compact&langs_count=7" />
 </div>
