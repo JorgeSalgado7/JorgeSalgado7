@@ -1,4 +1,4 @@
-# 🎓 Systems Engineer, 🖥️ Full Stack Developer, 🛡️ Ethical Hacker & 🎓 Project Manager 
+# 🎓 Computer Scientist, 🖥️ Full Stack Developer, 🛡️ Ethical Hacker & 🎓 Project Manager 
 
 I develop technological solutions that create new experiences.
 
@@ -27,7 +27,6 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 ## Stats
 
 <div align="center">
-  <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeSalgado7&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSalgado7&layout=compact&langs_count=7" />
 </div>
