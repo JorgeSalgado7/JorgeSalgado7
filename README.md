@@ -1,5 +1,3 @@
-![Portada github](https://user-images.githubusercontent.com/58179628/157672179-d7280100-121a-4217-b7c5-7948c07eb3e7.jpg)
-
 ## Jorge Salgado
 
 I develop technological solutions that create new experiences.
