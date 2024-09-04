@@ -9,11 +9,11 @@ With my experience in Cibersecurity i´m able to analyze, plan and manage differ
 ## Certifications
 
 ### Cybersecurity
-🛡️ Cybersecurity Essentials | Cisco 2021
-🛡️ Cyber Security Foundation Professional Certificate - CSFPC | CertiProf 2021
-🎓 Scrum Foundations Professional Certificate - SFPC | CertiProf 2021
-🛡️ CyberArk Trustee Certification | CyberArk 2021
-👻 G.H.O.S.T. Certification | White Suit Hacking 2021
+- 🛡️ Cybersecurity Essentials | Cisco 2021
+- 🛡️ Cyber Security Foundation Professional Certificate - CSFPC | CertiProf 2021
+- 🎓 Scrum Foundations Professional Certificate - SFPC | CertiProf 2021
+- 🛡️ CyberArk Trustee Certification | CyberArk 2021
+- 👻 G.H.O.S.T. Certification | White Suit Hacking 2021
 
 ### Networks
 🖥️ CCNA R&S: Connecting Networks  | Cisco 2020
