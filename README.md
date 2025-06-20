@@ -1,22 +1,62 @@
-## Jorge Salgado
+# 👋 Hola, soy Jorge Salgado
 
-I develop technological solutions that create new experiences.
+### 🚀 Full Stack Developer & Scrum Master | +6 años de experiencia
 
-I have a lot of experience in Web Development and Cybersecurity, wich allows me to create Web Applications, E - Commerce, Marketplace, Cybersecurity Tools and everything you can imagine.
+Apasionado por crear soluciones tecnológicas que transforman negocios.  
+He liderado productos clave para empresas como **Scotiabank**, **Vidanta** y **XTM Inc**, desarrollando sistemas antifraude, flujos de pago seguros y experiencias digitales de alto impacto.
 
-With my experience in Cibersecurity i´m able to analyze, plan and manage differents IT infrastructures protecting them at diferent Cibersecurity Threats ans criminal through Ethical Hacks, Hardering and more.
+Trabajo con un stack moderno, bajo metodologías ágiles y enfoque DevSecOps para entregar productos escalables, seguros y orientados a negocio.
 
-## Certifications
+---
 
-### Cyber security
-- 🛡️ Cybersecurity Essentials | Cisco 2021
-- 🛡️ Cyber Security Foundation Professional Certificate - CSFPC | CertiProf 2021
-- 🎓 Scrum Foundations Professional Certificate - SFPC | CertiProf 2021
-- 🛡️ CyberArk Trustee Certification | CyberArk 2021
-- 👻 G.H.O.S.T. Certification | White Suit Hacking 2021
+### 🛠 Stack Tecnológico
 
-### Networks
-- 🖥️ CCNA R&S: Connecting Networks  | Cisco 2020
-- 🖥️ CCNA R&S: Routing and Switching Essentials | Cisco 2019
-- 🖥️ CCNA R&S: Introduction to Networks | Cisco 2019
+**Frontend:** React · Next.js · Vue · JavaScript · SASS · Tailwind  
+
+**Backend:** Python · Django · FastAPI · Node.js · Typescript · PHP · Laravel  
+
+**Bases de datos:** PostgreSQL · MySQL · MongoDB · Redis  
+
+**Cloud & DevOps:** AWS · Azure · Docker · CI/CD · Azure DevOps · GitHub Actions  
+
+**Testing:** Jest · RTL · Cypress · Pytest · Django Test Framework  
+
+**IA / LLM:** ChatGPT · OpenAI · Bedrock Claude · Gemini · Copilot  
+
+
+---
+
+### 📌 Proyectos Relevantes
+
+- 💳 **Fraud Service Layer – Scotiabank**  
+  Plataforma antifraude bancaria adoptada a nivel LATAM.  
+
+- 🏨 **Apps Vidanta**  
+  9 aplicaciones web para mejorar la experiencia digital de los huéspedes.  
+
+
+- 💸 **XTM Inc – Fintech**  
+  Desarrollo de flujos de pago seguros con validaciones antifraude en tiempo real.  
+
+---
+
+### 📜 Certificaciones destacadas
+
+- Ciberseguridad y antifraude (Scotiabank, XTM Inc)
+- Grey Hat Offensive Security (WhiteSuit Hacking)
+- Scrum Foundations (CertiProf)
+- Dirección de Proyectos (UNITEC)
+
+---
+
+### 📫 Contacto
+
+- Email: j.salgado7@outlook.com  
+- Portafolio: [jorgesalgado7.github.io/jorge-salgado](https://jorgesalgado7.github.io/jorge-salgado)
+
+---
+
+> *"Transformo ideas en productos reales y escalables. Código con propósito, diseño con visión."*
+
+
 
